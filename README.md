@@ -9,7 +9,7 @@ sendo assim ele inicia a contagem a partir do indice "0" ( 0, 1, 2...)
 sendo a 0 então, a posição inicial da lista.
 
 Como Funciona?
--------------------------------------------------------
+______________________________________________________
 Primeiro é necesssario instalar as bibliotecas:
 
 Pandas
