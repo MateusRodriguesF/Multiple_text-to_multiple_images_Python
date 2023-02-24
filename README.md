@@ -79,8 +79,8 @@ for row in ruta_excel.itertuples(index=False):
 
 _______________________________________________
 
-Bom, espero que seja util e por favor se for usar me o devido credito, pois sou iniciante e levei semanas pesquisando detalhes para a escrita desse codigo.
+Bom, espero que seja util e por favor se for usar me o devido credito.
 Qualquer duvida estou a disposição.
 
-Contato: teubasf.t@gmail.com LindIn: https://br.linkedin.com/in/mateus-fonseca-810559210
+Contato: teubasf.t@gmail.com LinkedIn: https://br.linkedin.com/in/mateus-fonseca-810559210
    
